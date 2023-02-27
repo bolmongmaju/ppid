@@ -100,6 +100,93 @@
     </div>
     </section> --}}
 
+         <!-- ======= Recent Dokumen Section ======= -->
+         <section id="recent-blog-posts" class="recent-blog-posts mt-5" style="background: #f1f8ff">
+
+          <div class="container" data-aos="fade-up">
+    
+            <div class="section-title">
+              <h2>Dokumen</h2>
+              <p>Menu Dokumen</p>
+            </div>
+    
+            <div class="row">
+
+              <div class="col-lg-3" data-aos="fade-up" data-aos-delay="200" style="margin-top: 20px">
+                <div class="post-box" style="background-color: rgb(255, 255, 255);">
+                  <h3 class="post-title-recent" style="padding: 20px">Daftar Informasi Publik </h3>
+                  {{-- <p class="recent-blog-body">Iini adalah isi laporan masyarakat</p>
+                  <a href="#" class="readmore stretched-link"><span>Baca</span><i class="bi bi-arrow-right"></i></a> --}}
+                </div>
+              </div>
+
+              
+              <div class="col-lg-3" data-aos="fade-up" data-aos-delay="200" style="margin-top: 20px">
+                <div class="post-box" style="background-color: rgb(255, 255, 255);">
+                  <h3 class="post-title-recent" style="padding: 20px">Permohonan Informasi </h3>
+                  {{-- <p class="recent-blog-body">Iini adalah isi laporan masyarakat</p>
+                  <a href="#" class="readmore stretched-link"><span>Baca</span><i class="bi bi-arrow-right"></i></a> --}}
+                </div>
+              </div>
+
+              
+              <div class="col-lg-3" data-aos="fade-up" data-aos-delay="200" style="margin-top: 20px">
+                <div class="post-box" style="background-color: rgb(255, 255, 255);">
+                  <h3 class="post-title-recent" style="padding: 20px">Pengajuan Keberatan </h3>
+                  {{-- <p class="recent-blog-body">Iini adalah isi laporan masyarakat</p>
+                  <a href="#" class="readmore stretched-link"><span>Baca</span><i class="bi bi-arrow-right"></i></a> --}}
+                </div>
+              </div>
+
+              <div class="col-lg-3" data-aos="fade-up" data-aos-delay="200" style="margin-top: 20px">
+                <div class="post-box" style="background-color: rgb(255, 255, 255);">
+                  <h3 class="post-title-recent" style="padding: 20px">Laporan Pelayanan Informasi </h3>
+                  {{-- <p class="recent-blog-body">Iini adalah isi laporan masyarakat</p>
+                  <a href="#" class="readmore stretched-link"><span>Baca</span><i class="bi bi-arrow-right"></i></a> --}}
+                </div>
+              </div>
+
+
+
+              <div class="col-lg-3" data-aos="fade-up" data-aos-delay="200"  style="margin-top: 20px">
+                <div class="post-box" style="background-color: rgb(255, 255, 255);">
+                  <h3 class="post-title-recent" style="padding: 20px">Laporan Pelayanan Keberatan </h3>
+                  {{-- <p class="recent-blog-body">Iini adalah isi laporan masyarakat</p>
+                  <a href="#" class="readmore stretched-link"><span>Baca</span><i class="bi bi-arrow-right"></i></a> --}}
+                </div>
+              </div>
+
+              <div class="col-lg-3" data-aos="fade-up" data-aos-delay="200"  style="margin-top: 20px">
+                <div class="post-box" style="background-color: rgb(255, 255, 255);">
+                  <h3 class="post-title-recent" style="padding: 20px">Satu Data Bolmong </h3>
+                  {{-- <p class="recent-blog-body">Iini adalah isi laporan masyarakat</p>
+                  <a href="#" class="readmore stretched-link"><span>Baca</span><i class="bi bi-arrow-right"></i></a> --}}
+                </div>
+              </div>
+
+              <div class="col-lg-3" data-aos="fade-up" data-aos-delay="200"  style="margin-top: 20px">
+                <div class="post-box" style="background-color: rgb(255, 255, 255);">
+                  <h3 class="post-title-recent" style="padding: 20px">Pengaduan Bolmong </h3>
+                  {{-- <p class="recent-blog-body">Iini adalah isi laporan masyarakat</p>
+                  <a href="#" class="readmore stretched-link"><span>Baca</span><i class="bi bi-arrow-right"></i></a> --}}
+                </div>
+              </div>
+
+              <div class="col-lg-3" data-aos="fade-up" data-aos-delay="200"  style="margin-top: 20px">
+                <div class="post-box" style="background-color: rgb(255, 255, 255);">
+                  <h3 class="post-title-recent" style="padding: 20px">Data Covid 19 </h3>
+                  {{-- <p class="recent-blog-body">Iini adalah isi laporan masyarakat</p>
+                  <a href="#" class="readmore stretched-link"><span>Baca</span><i class="bi bi-arrow-right"></i></a> --}}
+                </div>
+              </div>
+    
+            </div>
+    
+          </div>
+    
+        </section><!-- End Recent Blog Posts Section -->
+
+
      <!-- ======= Recent Blog Posts Section ======= -->
      <section id="recent-blog-posts" class="recent-blog-posts mt-5" style="background: #f1f8ff">
 
