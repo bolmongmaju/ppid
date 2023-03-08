@@ -112,9 +112,9 @@
     
             <div class="row">
 
-              <div class="col-lg-3" data-aos="fade-up" data-aos-delay="200" style="margin-top: 20px">
-                <div class="post-box" style="background-color: rgb(255, 255, 255);">
-                  <a href=""><h3 class="post-title-recent" style="padding: 20px">Daftar Informasi Publik </h3></a>
+              <div class="col-lg-3" data-aos="fade-up" data-aos-delay="200" style="margin-top: 20px;">
+                <div class="post-box" style="background-color: aliceblue; border-radius:10px;">
+                  <a href="{{ ('/dip') }}"><h3 class="post-title-recent" style="padding: 20px">Daftar Informasi Publik </h3></a>
                   {{-- <p class="recent-blog-body">Iini adalah isi laporan masyarakat</p>
                   <a href="#" class="readmore stretched-link"><span>Baca</span><i class="bi bi-arrow-right"></i></a> --}}
                 </div>
@@ -122,7 +122,7 @@
 
               
               <div class="col-lg-3" data-aos="fade-up" data-aos-delay="200" style="margin-top: 20px">
-                <div class="post-box" style="background-color: rgb(255, 255, 255);">
+                <div class="post-box" style="background-color: aliceblue; border-radius:10px;">
                   <a href=""><h3 class="post-title-recent" style="padding: 20px">Permohonan Informasi </h3></a>
                   {{-- <p class="recent-blog-body">Iini adalah isi laporan masyarakat</p>
                   <a href="#" class="readmore stretched-link"><span>Baca</span><i class="bi bi-arrow-right"></i></a> --}}
@@ -131,7 +131,7 @@
 
               
               <div class="col-lg-3" data-aos="fade-up" data-aos-delay="200" style="margin-top: 20px">
-                <div class="post-box" style="background-color: rgb(255, 255, 255);">
+                <div class="post-box" style="background-color: aliceblue; border-radius:10px;">
                   <a href=""><h3 class="post-title-recent" style="padding: 20px">Pengajuan Keberatan </h3></a>
                   {{-- <p class="recent-blog-body">Iini adalah isi laporan masyarakat</p>
                   <a href="#" class="readmore stretched-link"><span>Baca</span><i class="bi bi-arrow-right"></i></a> --}}
@@ -139,7 +139,7 @@
               </div>
 
               <div class="col-lg-3" data-aos="fade-up" data-aos-delay="200" style="margin-top: 20px">
-                <div class="post-box" style="background-color: rgb(255, 255, 255);">
+                <div class="post-box" style="background-color: aliceblue; border-radius:10px;">
                  <a href=""><h3 class="post-title-recent" style="padding: 20px">Laporan Pelayanan Informasi </h3></a> 
                   {{-- <p class="recent-blog-body">Iini adalah isi laporan masyarakat</p>
                   <a href="#" class="readmore stretched-link"><span>Baca</span><i class="bi bi-arrow-right"></i></a> --}}
@@ -149,7 +149,7 @@
 
 
               <div class="col-lg-3" data-aos="fade-up" data-aos-delay="200"  style="margin-top: 20px">
-                <div class="post-box" style="background-color: rgb(255, 255, 255);">
+                <div class="post-box" style="background-color: aliceblue; border-radius:10px;">
                   <a href=""><h3 class="post-title-recent" style="padding: 20px">Laporan Pelayanan Keberatan </h3></a>
                   {{-- <p class="recent-blog-body">Iini adalah isi laporan masyarakat</p>
                   <a href="#" class="readmore stretched-link"><span>Baca</span><i class="bi bi-arrow-right"></i></a> --}}
@@ -157,7 +157,7 @@
               </div>
 
               <div class="col-lg-3" data-aos="fade-up" data-aos-delay="200"  style="margin-top: 20px">
-                <div class="post-box" style="background-color: rgb(255, 255, 255);">
+                <div class="post-box" style="background-color: aliceblue; border-radius:10px;">
                   <a href=""><h3 class="post-title-recent" style="padding: 20px">Satu Data Bolmong </h3></a>
                   {{-- <p class="recent-blog-body">Iini adalah isi laporan masyarakat</p>
                   <a href="#" class="readmore stretched-link"><span>Baca</span><i class="bi bi-arrow-right"></i></a> --}}
@@ -165,7 +165,7 @@
               </div>
 
               <div class="col-lg-3" data-aos="fade-up" data-aos-delay="200"  style="margin-top: 20px">
-                <div class="post-box" style="background-color: rgb(255, 255, 255);">
+                <div class="post-box" style="background-color: aliceblue; border-radius:10px;">
                   <a href=""><h3 class="post-title-recent" style="padding: 20px">Pengaduan Bolmong </h3></a>
                   {{-- <p class="recent-blog-body">Iini adalah isi laporan masyarakat</p>
                   <a href="#" class="readmore stretched-link"><span>Baca</span><i class="bi bi-arrow-right"></i></a> --}}
@@ -173,8 +173,8 @@
               </div>
 
               <div class="col-lg-3" data-aos="fade-up" data-aos-delay="200"  style="margin-top: 20px">
-                <div class="post-box" style="background-color: rgb(255, 255, 255);">
-                  <a href=""><h3 class="post-title-recent" style="padding: 20px">Data Covid 19 </h3></a>
+                <div class="post-box" style="background-color: aliceblue; border-radius:10px;">
+                  <a href=""><h3 class="post-title-recent" style="padding: 20px;">Data Covid 19 </h3></a>
                   {{-- <p class="recent-blog-body">Iini adalah isi laporan masyarakat</p>
                   <a href="#" class="readmore stretched-link"><span>Baca</span><i class="bi bi-arrow-right"></i></a> --}}
                 </div>

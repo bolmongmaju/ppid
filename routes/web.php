@@ -24,6 +24,7 @@ Route::get('/cari-kategori/{category:id}', [App\Http\Controllers\PageController:
 Route::get('/cari-tag/{tag:id}', [App\Http\Controllers\PageController::class, 'tag'])->name('cari-tag');
 
 Route::get('/download', [App\Http\Controllers\PageController::class, 'download']);
+Route::get('/dip', [App\Http\Controllers\PageController::class, 'dip']);
 Route::get('/getdownload/{downloads:id}', [App\Http\Controllers\PageController::class, 'getDownload'])->name('getdownload');
 Route::get('/event-detail/{event:id}', [App\Http\Controllers\PageController::class, 'eventDetail'])->name('event-detail');
 

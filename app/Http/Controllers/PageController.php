@@ -117,6 +117,11 @@ class PageController extends Controller
         return response()->download($pathToFile);
     }
 
+    public function dip()
+    {
+        return view('opd/detail/dip');
+    }
+
     public function berita(Request $request)
     {
         $kategori = Category::latest()->get();
